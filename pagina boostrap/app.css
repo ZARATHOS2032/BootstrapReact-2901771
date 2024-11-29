@@ -1,0 +1,117 @@
+.fondo{
+    background-color: #16272A;
+}
+
+.morado {
+    background-color: #6f42c1; /* Color morado específico */
+    padding: 10px; /* Opcional, solo para dar algo de espacio */
+}
+
+h2 {
+    padding: 0%;
+    margin: 0;
+}
+
+
+img {
+    width: 300px;
+}
+
+.barra ul {
+    display: flex;
+    list-style: none;
+   
+    
+}
+
+.barra ul li {
+    margin-left: 30px;
+    width: 150px;
+    color: white;
+    cursor: pointer;
+    
+}
+
+.parrafo-main {
+    margin-right: 30px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.logo2{
+    margin-top: 40px !important;
+}
+
+.prueba {
+margin-top: 30px !important;
+margin-left: 30px !important;
+
+}
+
+.text-somos {
+margin-left: 15px !important;
+font-size: 15px;
+text-align: left;
+}
+
+
+.lista {
+    text-align: start !important;
+    margin-top: 15px !important;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 2rem 8%;
+    background-color: #0e0e0e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo{
+    height: 80px;
+    margin-bottom: 1rem;
+}
+.footer{
+    width:100%;
+    height:auto;
+    background-color: #6f42c1 !important;
+    text-align: center;
+    
+}
+.green{
+    width: 100%;
+    height: 100%;
+}
+.AI{
+    width: 95%;
+    height: 90%;
+}
+.marginAI{
+    margin-left: 2rem;
+}
+
+
+/* justify content sirve para alinear de izquierda a derecha
+align items sirve para alinear de arriba hacia abajo
+
+*/
